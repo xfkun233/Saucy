@@ -14,5 +14,5 @@ Automates certain Gold Saucer mini-games.
 <li>Cuff-a-cur</li>
 <li>Triple Triad</li>
 </ul>
-
+<h4>1.0.0.3汉化版<h4>
 <!-- Repository Header End -->
